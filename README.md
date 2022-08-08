@@ -4,6 +4,7 @@ What is the purpose of putting up this repo?
 */
 
 Tracking my code for Terraform training class
+want to learn how to version control projects with git
 
 ## Getting Started
 
